@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iii",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "techores:copper_ingot"
+        }
+    },
+    "result": {
+        "item": "techores:copper_block",
+        "count": 1
+    }
+}

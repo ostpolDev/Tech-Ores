@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iii",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "techores:tin_ingot"
+        }
+    },
+    "result": {
+        "item": "techores:tin_block",
+        "count": 1
+    }
+}

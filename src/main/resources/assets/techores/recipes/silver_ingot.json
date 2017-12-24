@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "techores:silver_block"
+        }
+    },
+    "result": {
+        "item": "techores:silver_ingot",
+        "count": 9
+    }
+}

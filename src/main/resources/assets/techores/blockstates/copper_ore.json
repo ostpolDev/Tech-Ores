@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "techores:copper_ore" }
+    }
+}
